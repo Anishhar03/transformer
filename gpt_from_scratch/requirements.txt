@@ -1,0 +1,5 @@
+torch
+transformers
+datasets
+python-dotenv
+accelerate
